@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the proposal as a working research paper; it is not peer reviewed."
+type: article
+title: "Coordinated Development and Independent Living: A Critical Review and Research Protocol for the 3–4–3–4–3–4–2 Model"
+authors:
+  - family-names: Beregovykh
+    given-names: Nikita
+version: "1.0"
+date-released: 2026-11-02
+url: "https://research.liberpict.com/education-continuity/"
+repository-code: "https://github.com/nvberegovykh/education-continuity-research"
+abstract: "A targeted narrative review and proposed evaluation of coordinated education, support and adult autonomy. AI-assisted editorial preparation; no original participant data, genetic timetable validation or optimal-age result."

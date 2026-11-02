@@ -1,0 +1,99 @@
+{
+  "schema": "liber.education-continuity.schedule/1",
+  "version": "1.0",
+  "date": "2026-11-02",
+  "evidence_status": "proposed service-design calendar; no optimal-age result established",
+  "age_convention": "birthday intervals: start inclusive, end exclusive",
+  "durations": [
+    3,
+    4,
+    3,
+    4,
+    3,
+    4,
+    2
+  ],
+  "boundaries": [
+    0,
+    3,
+    7,
+    10,
+    14,
+    17,
+    21,
+    23
+  ],
+  "original_completed_age_bands": [
+    "0–3",
+    "4–7",
+    "8–10",
+    "11–14",
+    "15–17",
+    "18–21",
+    "22–23"
+  ],
+  "original_band_warning": "Completed-age reading lasts 24 years because the first band is four years; it is a separate variant.",
+  "stages": [
+    {
+      "start": 0,
+      "end": 3,
+      "theme": "Body, attachment and early communication"
+    },
+    {
+      "start": 3,
+      "end": 7,
+      "theme": "Communication and supported coexistence"
+    },
+    {
+      "start": 7,
+      "end": 10,
+      "theme": "Guided projects and shared inquiry"
+    },
+    {
+      "start": 10,
+      "end": 14,
+      "theme": "Persistence, social judgment and dependable practice"
+    },
+    {
+      "start": 14,
+      "end": 17,
+      "theme": "Responsibility and increasing project autonomy"
+    },
+    {
+      "start": 17,
+      "end": 21,
+      "theme": "Professional preparation and economic capability"
+    },
+    {
+      "start": 21,
+      "end": 23,
+      "theme": "Paid work and recoverable mistakes"
+    }
+  ],
+  "support_review_birthdays": [
+    0,
+    3,
+    7,
+    10,
+    14,
+    17,
+    21
+  ],
+  "closing_review_offer": 23,
+  "adulthood_reference_age": 18,
+  "adulthood_rule": "Use the applicable jurisdiction's actual legal age; stop compulsory program-level developmental tracking and automatic parent/employer access at adulthood. Adult follow-up is separately opt-in, revocable and time-limited.",
+  "proposed_adult_consent_renewal_max_months": 12,
+  "family_planning": "Independent of stage completion, income, tests and sponsors. No universal optimal reproductive age claimed; appropriate education and confidential care subject to local law.",
+  "adult_bridge_interval": [
+    23,
+    27
+  ],
+  "retreat_offer_window": [
+    27,
+    30
+  ],
+  "retreat_window_convention": "Age labels 27–30 denote an opportunity window; no fixed duration or biological boundary is implied.",
+  "retreat_options": "Voluntary 2–6-week leave, reduced load, or separately funded 6–12-month retraining/care break. Proposed pilot options, not proven optima; available at other ages too.",
+  "genetic_data_collected": false,
+  "participant_data_collected": false
+}

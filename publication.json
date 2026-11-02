@@ -1,0 +1,18 @@
+{
+  "schema": "liber.education-continuity.publication/1",
+  "version": "1.0",
+  "date": "2026-11-02",
+  "paper_sha256": "3261449347ddb7fb1a15763703969089f11b495dad29dd8f38b33f34256c4f33",
+  "words": 6306,
+  "references": 20,
+  "studies": 4,
+  "articles": 1,
+  "original_participants": 0,
+  "original_outcome_data": false,
+  "peer_reviewed": false,
+  "genetic_timetable_validated": false,
+  "optimal_ages_established": false,
+  "reader": "https://research.liberpict.com/education-continuity/",
+  "archive": "https://research.liberpict.com/#/r/education-continuity",
+  "github": "https://github.com/nvberegovykh/education-continuity-research"
+}
